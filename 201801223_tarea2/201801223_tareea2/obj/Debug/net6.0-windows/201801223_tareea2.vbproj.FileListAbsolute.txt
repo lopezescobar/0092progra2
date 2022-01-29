@@ -1,0 +1,17 @@
+C:\Users\LUIS LOPEZ\Desktop\201801223_tarea2\201801223_tareea2\bin\Debug\net6.0-windows\201801223_tareea2.exe
+C:\Users\LUIS LOPEZ\Desktop\201801223_tarea2\201801223_tareea2\bin\Debug\net6.0-windows\201801223_tareea2.deps.json
+C:\Users\LUIS LOPEZ\Desktop\201801223_tarea2\201801223_tareea2\bin\Debug\net6.0-windows\201801223_tareea2.runtimeconfig.json
+C:\Users\LUIS LOPEZ\Desktop\201801223_tarea2\201801223_tareea2\bin\Debug\net6.0-windows\201801223_tareea2.dll
+C:\Users\LUIS LOPEZ\Desktop\201801223_tarea2\201801223_tareea2\bin\Debug\net6.0-windows\ref\201801223_tareea2.dll
+C:\Users\LUIS LOPEZ\Desktop\201801223_tarea2\201801223_tareea2\bin\Debug\net6.0-windows\201801223_tareea2.pdb
+C:\Users\LUIS LOPEZ\Desktop\201801223_tarea2\201801223_tareea2\obj\Debug\net6.0-windows\201801223_tareea2.vbproj.AssemblyReference.cache
+C:\Users\LUIS LOPEZ\Desktop\201801223_tarea2\201801223_tareea2\obj\Debug\net6.0-windows\_201801223_tareea2.Form1.resources
+C:\Users\LUIS LOPEZ\Desktop\201801223_tarea2\201801223_tareea2\obj\Debug\net6.0-windows\201801223_tareea2.vbproj.GenerateResource.cache
+C:\Users\LUIS LOPEZ\Desktop\201801223_tarea2\201801223_tareea2\obj\Debug\net6.0-windows\201801223_tareea2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUIS LOPEZ\Desktop\201801223_tarea2\201801223_tareea2\obj\Debug\net6.0-windows\201801223_tareea2.AssemblyInfoInputs.cache
+C:\Users\LUIS LOPEZ\Desktop\201801223_tarea2\201801223_tareea2\obj\Debug\net6.0-windows\201801223_tareea2.AssemblyInfo.vb
+C:\Users\LUIS LOPEZ\Desktop\201801223_tarea2\201801223_tareea2\obj\Debug\net6.0-windows\201801223_tareea2.vbproj.CoreCompileInputs.cache
+C:\Users\LUIS LOPEZ\Desktop\201801223_tarea2\201801223_tareea2\obj\Debug\net6.0-windows\201801223_tareea2.dll
+C:\Users\LUIS LOPEZ\Desktop\201801223_tarea2\201801223_tareea2\obj\Debug\net6.0-windows\ref\201801223_tareea2.dll
+C:\Users\LUIS LOPEZ\Desktop\201801223_tarea2\201801223_tareea2\obj\Debug\net6.0-windows\201801223_tareea2.pdb
+C:\Users\LUIS LOPEZ\Desktop\201801223_tarea2\201801223_tareea2\obj\Debug\net6.0-windows\201801223_tareea2.genruntimeconfig.cache
